@@ -14,7 +14,7 @@ const String deepLinkName = 'MVS User';
 const int timeOut = 50;
 const int perPage = 10;
 
-const String baseUrl = '/app/v1/api/';
+const String baseUrl = 'https://mvs.ascithub.in/app/v1/api/';
 
 const String jwtKey = "ba13f7d76b380ad91e7717b186c32945a2b3e01a";
 
